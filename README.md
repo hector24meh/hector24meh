@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Héctor Muñiz</h1>
 <h3 align="center">A Jr frontend developer from México</h3>
 
-<p>Hello! My name is Héctor, I'm 21 years old and I'm from México 🇲🇽 I love doing web designs, development and data science, I studied physisc (Graduated on Dec 2023) and I'm trying to learn and understand this big world 🌎 of web development. </p>
-<h3 align="left">Let's chat!:</h3>
+<p>Hello! My name is Héctor. I'm 21 years old, and I'm from Mexico 🇲🇽. I love creating web designs, development, and exploring data science. I studied physics and graduated in December 2023. Currently, I am learning and comprehending the vast world 🌎 of web development. </p>
+<h3 align="left">Contact Me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hector24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hector24" height="30" width="40" /></a>
 </p>
